@@ -1,5 +1,7 @@
 # proxypool
 
+> forked from [zx576/proxypool](https://github.com/zx576/proxypool)
+
 基于 django 制作的 IP 池，本项目使用 requests+bs4 爬取数据，依托 django 数据库系统保存，通过网络请求从数据库内获取 IP，运行中有疑问可以在 Issues 下
 提交。
 
